@@ -53,7 +53,7 @@
 
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
+<a href="">
 <img src="https://raw.githubusercontent.com/krish-developer/FlashFeed-News-App/main/public/2965879.png" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">FlashFeed
